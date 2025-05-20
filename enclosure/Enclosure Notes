@@ -1,0 +1,12 @@
+# Enclosure Notes
+
+## Materials
+The enclosure was 3D printed using PLA filament. The model was downloaded from an open-source repository and modified slightly to fit internal components. The shell was assembled using snap-fit parts without additional finishing.
+
+## Design Decisions
+The wand is creatively shaped like a TNT detonator to enhance the magical and playful feel of the interaction. The large T-shaped handle gives users a natural way to grip and swing the wand during gesture input. A tactile push-button on the side triggers gesture recognition, and a colorful RGB LED provides visual feedback for spell activation.
+
+This design choice emphasizes usability and fun, making it intuitive for users to associate physical actions with magical outcomes.
+
+## Battery
+The ESP32 board is powered by a 3.7V lithium battery embedded inside the enclosure. No dedicated power switch was added; power is supplied by connecting the battery directly to the board when in use.
