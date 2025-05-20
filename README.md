@@ -1,8 +1,8 @@
-# ✨ TECHIN515 Magic Wand Project
+# TECHIN515 Magic Wand Project
 
 This repository contains all necessary files for our gesture-controlled magic wand, built using ESP32 and Edge Impulse.
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 TECHIN515-magic-wand/
@@ -23,7 +23,7 @@ TECHIN515-magic-wand/
 └── README.md                         # This file
 ```
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. Clone this repository:
 ```bash
@@ -49,7 +49,7 @@ Follow on-screen instructions and move the wand accordingly.
 
 ---
 
-## 🧠 Model Training (Edge Impulse)
+##  Model Training (Edge Impulse)
 
 1. Go to [Edge Impulse Studio](https://studio.edgeimpulse.com)
 2. Create a new project and upload your dataset
@@ -62,7 +62,7 @@ Follow on-screen instructions and move the wand accordingly.
 
 ---
 
-## 🧵 Hardware Connections
+## Hardware Connections
 
 ### **MPU6050**
 - VCC → 3.3V
@@ -86,8 +86,4 @@ Follow on-screen instructions and move the wand accordingly.
 
 Watch our demo in `media/demo.mp4` to see the wand in action.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
